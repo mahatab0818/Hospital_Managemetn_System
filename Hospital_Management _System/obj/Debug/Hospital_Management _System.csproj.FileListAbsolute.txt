@@ -1,0 +1,22 @@
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Admin.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Login.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Properties.Resources.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Registration.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management _System.csproj.GenerateResource.cache
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management _System.csproj.CoreCompileInputs.cache
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\bin\Debug\Hospital_Management _System.exe.config
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\bin\Debug\Hospital_Management _System.exe
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\bin\Debug\Hospital_Management _System.pdb
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management _System.exe
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management _System.pdb
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management _System.csprojAssemblyReference.cache
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Doctor.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Staff.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Control_Admin.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Control_Doctor.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Control_Staff.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Add_Patient.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Update_Patient.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Delete_Patient.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Details.resources
+C:\Users\Mahtab\source\repos\Hospital_Management _System\Hospital_Management _System\obj\Debug\Hospital_Management__System.Medicine_And_Test.resources
